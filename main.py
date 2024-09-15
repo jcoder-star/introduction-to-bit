@@ -12,3 +12,4 @@ print( bin(7^2))
 
 #left shift operator shifts thye binary number to the left 
 #it is represented by this symbol <<
+print(bin(10 << 2))
